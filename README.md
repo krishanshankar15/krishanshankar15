@@ -11,11 +11,6 @@
 - 🖥️ Interested in **projects that merge hardware + software**, like Remotely controllable devices, IoT devices, fire alarms and such.
 - 🌱 Learning programmable device codes like arduino, esp32 module
 
----
-
-
-## 📊 GitHub Stats
-![Krishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishanshankar15&show_icons=true&theme=radical)
 
 ---
 
