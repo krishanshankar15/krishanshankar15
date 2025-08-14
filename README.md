@@ -14,5 +14,5 @@
 
 ---
 
-## ✨ Fun Fact
+## Also naa idha kathukuten gais
 > "Hardware is the body, software is the soul — together they work magic."
